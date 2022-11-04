@@ -11,6 +11,7 @@
 > -[part 1](https://github.com/GalalMohammed/SHAI_Training_2022-b_Tasks/blob/main/Task_6_exercises_answered.ipynb), [part 2](https://github.com/GalalMohammed/SHAI_Training_2022-b_Tasks/blob/main/%D8%AC%D9%84%D8%A7%D9%84%20%D9%85%D8%AD%D9%85%D8%AF%20-%20Task%206.pdf)
 - [Task 7](https://github.com/GalalMohammed/SHAI_Training_2022-b_Tasks/blob/main/Task_7_exercises_answered.ipynb)
 - [Task 8](https://github.com/GalalMohammed/SHAI_Training_2022-b_Tasks/blob/main/Task_8_exercises_answered.ipynb)
+- [Task 9](https://github.com/GalalMohammed/SHAI_Training_2022-b_Tasks/blob/main/Task_9_exercises_answered.ipynb)
 
 ## Extras
 - [Pandas Extra Task (Olympic)](https://github.com/GalalMohammed/SHAI_Training_2022-b_Tasks/blob/main/Olympic_answered.ipynb)
